@@ -1,8 +1,8 @@
-# 👋 Hi there, I'm Iki — Full Stack & Mobile Developer 🚀
+# 👋 Hi there, I'm Usama Hisam — Full Stack & Mobile Developer 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=iki-iku&color=blueviolet)
-[![GitHub followers](https://img.shields.io/github/followers/iki-iku?label=Follow&style=social)](https://github.com/iki-iku)
-[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub.io-blue?logo=github)](https://iki-iku.github.io)
+![Profile Views](https://komarev.com/ghpvc/?username=usamahisam&color=blueviolet)
+[![GitHub followers](https://img.shields.io/github/followers/usamahisam?label=Follow&style=social)](https://github.com/usamahisam)
+[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub.io-blue?logo=github)](https://usamahisam.github.io)
 [![Email](https://img.shields.io/badge/Contact-Email-red?logo=gmail)](mailto:youremail@example.com)
 
 ---
@@ -46,7 +46,7 @@ With years of experience in backend and frontend development, I love transformin
 | **Mobile ERP System** | Multi-platform ERP dashboard & analytics | Flutter, Laravel, PostgreSQL |
 | **Realtime Chat & Call** | Secure chat and VoIP integration with JWT auth | Node.js, Golang, Redis |
 
-👉 Check out my full portfolio on [iki-iku.github.io](https://iki-iku.github.io)
+👉 Check out my full portfolio on [usamahisam.github.io](https://usamahisam.github.io)
 
 ---
 
@@ -63,12 +63,12 @@ With years of experience in backend and frontend development, I love transformin
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iki-iku&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iki-iku&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=usamahisam&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=usamahisam&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iki-iku&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamahisam&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
@@ -76,9 +76,9 @@ With years of experience in backend and frontend development, I love transformin
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/iki-iku" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="https://x.com/iki_iku" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
-  <a href="https://github.com/iki-iku" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
+  <a href="https://linkedin.com/in/usamahisam" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://x.com/usamahisam" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
+  <a href="https://github.com/usamahisam" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
   <a href="mailto:youremail@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 </p>
 
