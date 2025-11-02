@@ -3,18 +3,25 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=usamahisam&color=blueviolet)
 [![GitHub followers](https://img.shields.io/github/followers/usamahisam?label=Follow&style=social)](https://github.com/usamahisam)
 [![Portfolio](https://img.shields.io/badge/Portfolio-GitHub.io-blue?logo=github)](https://usamahisam.github.io)
-[![Email](https://img.shields.io/badge/Contact-Email-red?logo=gmail)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/Contact-Email-red?logo=gmail)](mailto:hisamusama@gmail.com)
+
+---
+
+![Coding Meme](https://i.imgur.com/2ZbZ7lm.gif)
+> _"I don't always test my code, but when I do... I do it in production."_ 😎
 
 ---
 
 ### 💡 About Me
-I’m a passionate **Software Engineer** specializing in building modern and scalable applications across **web**, **mobile (Android/iOS)**, and **desktop platforms**.  
-With years of experience in backend and frontend development, I love transforming ideas into real products that are fast, secure, and elegant.
+
+Hey there! I'm **Usama**, a caffeine-fueled developer who speaks fluent **Java**, **PHP**, **Kotlin**, **Go**, **Swift**, **JS**, and **Dart**.  
+I build stuff for **web**, **mobile (Android/iOS)**, and even **desktop**, because why limit yourself when you can over-engineer everything? 😂
 
 - 🌍 Based in: Indonesia  
 - 💻 Focus: Full-stack Development, Mobile Apps, Cloud Integration  
-- 🎯 Goal: To create impactful digital solutions with clean architecture & modern tech  
-- ☕ Motto: *“Code with clarity, build with passion.”*
+- 🧠 Superpower: Turning coffee into clean architecture ☕  
+- 🧩 Side Quest: Fixing bugs I created at 3 AM  
+- 🎯 Goal: Build something cool, break it, then fix it again — better this time.  
 
 ---
 
@@ -46,17 +53,27 @@ With years of experience in backend and frontend development, I love transformin
 | **Mobile ERP System** | Multi-platform ERP dashboard & analytics | Flutter, Laravel, PostgreSQL |
 | **Realtime Chat & Call** | Secure chat and VoIP integration with JWT auth | Node.js, Golang, Redis |
 
-👉 Check out my full portfolio on [usamahisam.github.io](https://usamahisam.github.io)
+👉 Check out my portfolio: [usamahisam.github.io](https://usamahisam.github.io)
 
 ---
 
 ### 🧩 Featured Skills
 
-- Full-stack Architecture (Monolith & Microservices)
-- RESTful API / WebSocket / SIP integration
-- Mobile App Development (Native + Flutter)
-- CI/CD pipelines & Dockerization
-- Clean Code, SOLID principles, and scalable design
+- 🧱 Building full-stack apps (from “Hello World” to production)  
+- 📡 REST, WebSocket, and SIP Integration — basically talking to machines  
+- 📱 Flutter & Native Android wizardry  
+- 🐳 Dockerized everything (even my coffee habit)  
+- 🧼 Writing *Clean Code* (after writing messy code first)  
+
+---
+
+### 😂 Developer Life in One Picture
+
+<p align="center">
+  <img src="https://i.imgur.com/yb0Yk1x.jpeg" width="500" alt="Developer Meme">
+</p>
+
+> _"When your code finally works, and you have no idea why."_ 😅
 
 ---
 
@@ -79,16 +96,22 @@ With years of experience in backend and frontend development, I love transformin
   <a href="https://linkedin.com/in/usamahisam" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
   <a href="https://x.com/usamahisam" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
   <a href="https://github.com/usamahisam" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="mailto:hisamusama@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 </p>
 
 ---
 
 ### ✨ Fun Fact
-When I’m not coding, I enjoy exploring **AI technologies**, contributing to **open-source**, and mentoring others in the world of **tech education**.
+
+When I'm not coding, I:
+- 🎮 Play games to “debug my brain”
+- ☁️ Dream about Kubernetes clusters I’ll never actually deploy
+- 🧩 Read documentation I’ll forget in 5 minutes
+
+![Funny Coding GIF](https://i.imgur.com/AW0FZB8.gif)
 
 ---
 
-> “Technology is best when it brings people together — not just systems.”
+> “Behind every successful developer is a stack of empty coffee cups and a repo named ‘final_final_v3_real’.” ☕💻
 
-⭐️ **If you like my work, consider giving a star or follow!**
+⭐ **If you laughed, learned, or liked anything here — drop a ⭐ or follow!**
