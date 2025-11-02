@@ -7,7 +7,8 @@
 
 ---
 
-![Coding Meme](https://i.imgur.com/2ZbZ7lm.gif)
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" alt="Coding Meme"/>
+
 > _"I don't always test my code, but when I do... I do it in production."_ 😎
 
 ---
@@ -70,7 +71,7 @@ I build stuff for **web**, **mobile (Android/iOS)**, and even **desktop**, becau
 ### 😂 Developer Life in One Picture
 
 <p align="center">
-  <img src="https://i.imgur.com/yb0Yk1x.jpeg" width="500" alt="Developer Meme">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Developer Life Meme">
 </p>
 
 > _"When your code finally works, and you have no idea why."_ 😅
@@ -85,7 +86,7 @@ I build stuff for **web**, **mobile (Android/iOS)**, and even **desktop**, becau
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamahisam&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamahisam&layout=compact&langs_count=10&theme=tokyonight" height="195" />
 </p>
 
 ---
@@ -108,7 +109,7 @@ When I'm not coding, I:
 - ☁️ Dream about Kubernetes clusters I’ll never actually deploy
 - 🧩 Read documentation I’ll forget in 5 minutes
 
-![Funny Coding GIF](https://i.imgur.com/AW0FZB8.gif)
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="400" alt="Funny Coding GIF"/>
 
 ---
 
