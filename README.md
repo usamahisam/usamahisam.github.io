@@ -15,6 +15,8 @@
 </p>
 
 > _"I don't always test my code, but when I do... I find it much faster in production. Let's roll the dice."_ 😈
+>
+> **— The Final Frontier of Debugging**
 
 ---
 
@@ -40,6 +42,19 @@ My arsenal allows me to select the perfect tool for any part of the stack, ensur
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,php,kotlin,go,js,ts,dart,swift,python,csharp,html,css,bash,r,lua,sql" />
 </p>
+<details>
+<summary>Complete Proficiency List (16 Languages!)</summary>
+<br>
+- **Java** & **Kotlin** (Back-end & Native Android)
+- **PHP** (Laravel, Symfony, CodeIgniter)
+- **Go (Golang)** & **Node.js/JavaScript/TypeScript** (High-Performance Back-end)
+- **Dart** (Flutter for Mobile/Web/Desktop)
+- **Swift** (Native iOS Development)
+- **Python**, **C#**, **R**, **Lua** (Data Processing & Utilities)
+- **HTML5**, **CSS3/TailwindCSS** (Front-end)
+- **SQL** (Database Querying)
+- **Bash/Shell** (Automation & DevOps)
+</details>
 
 #### ⚙️ 2. Frameworks & Tools (Daily Drivers)
 <p align="left">
@@ -58,10 +73,10 @@ My arsenal allows me to select the perfect tool for any part of the stack, ensur
 | Area | Expertise |
 |:---|:---|
 | 🏗️ **Full-Stack Development** | From robust database design (`PostgreSQL`, `MongoDB`) to dynamic frontend rendering (`Vue.js`, `Nuxt`). |
-| 📱 **Mobile Engineering** | Mastered `Flutter` for fast deployment and native performance tuning (`Kotlin`, `Swift`). |
-| 📡 **Realtime Integration** | Proficient in `WebSocket`, `SIP`, and `JWT` for low-latency, secure communication protocols. |
-| 🐳 **DevOps & Clean Code** | Expertise in `Docker` containerization, CI/CD principles, and applying *Clean Architecture* & *SOLID*. |
-| ⚡ **Performance Tuning** | Optimizing back-end services using high-efficiency languages like `Go` and caching with `Redis` for high throughput. |
+| 📱 **Mobile Engineering** | Proficient in `Flutter` for fast deployment and native performance tuning (`Kotlin`, `Swift`). |
+| 📡 **Realtime Integration** | Skilled in implementing `WebSocket`, `SIP`, and `JWT` authentication for low-latency, secure communication protocols. |
+| 🐳 **DevOps & Clean Code** | Experienced with `Docker` containerization, CI/CD principles, and applying *Clean Architecture* & *SOLID*. |
+| ⚡ **Performance Tuning** | Optimizing back-end services using high-efficiency languages like `Go` and powerful tools like `Redis` for high throughput. |
 
 ---
 
@@ -76,7 +91,7 @@ My arsenal allows me to select the perfect tool for any part of the stack, ensur
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Statistics (Enhanced)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=usamahisam&show_icons=true&theme=tokyonight&hide_border=true&title_color=9f7aea&text_color=c1d0e0" height="165" />
@@ -85,6 +100,10 @@ My arsenal allows me to select the perfect tool for any part of the stack, ensur
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamahisam&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=9f7aea&text_color=c1d0e0" height="195" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats.com/api/user/usamahisam/stats?card_theme=tokyonight&include=commits,prs,contributed_to,repos_contributed_to&exclude=repos_owned" height="165" />
 </p>
 
 ---
