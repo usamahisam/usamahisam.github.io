@@ -102,6 +102,9 @@ My arsenal allows me to select the perfect tool for any part of the stack, ensur
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamahisam&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=9f7aea&text_color=c1d0e0" height="195" />
 </p>
 
+![](https://raw.githubusercontent.com/usamahisam/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/usamahisam/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 <p align="center">
   <img src="https://github-stats.com/api/user/usamahisam/stats?card_theme=tokyonight&include=commits,prs,contributed_to,repos_contributed_to&exclude=repos_owned" height="165" />
 </p>
