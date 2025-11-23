@@ -1,99 +1,90 @@
-## 👨‍💻 Usama Hisam — Full-Stack Architect & Mobile Alchemist 🚀
+## 👑 Usama Hisam — Full-Stack Architect & Mobile Alchemist 🚀
+
+> **Motto:** Caffeine-powered engineer building scalable applications with robust, clean architecture.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=usamahisam&color=7851A9)](https://github.com/usamahisam)
 [![GitHub followers](https://img.shields.io/github/followers/usamahisam?label=Follow&style=social)](https://github.com/usamahisam)
-[![Portfolio](https://img.shields.io/badge/Portfolio-usamahisam.github.io-0366D6?logo=github)](https://usamahisam.github.io)
-[![Email](https://img.shields.io/badge/Contact-hisamusama@gmail.com-D14836?logo=gmail)](mailto:hisamusama@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/usamahisam)
+[![Portfolio](https://img.shields.io/badge/Portfolio-usamahisam.github.io-0366D6?style=flat-square&logo=github)](https://usamahisam.github.io)
+[![Email](https://img.shields.io/badge/Contact-hisamusama@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:hisamusama@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/usamahisam)
 
 ---
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" alt="Coding Meme"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="450" alt="Coding Meme"/>
+</p>
 
-> _"I don't always test my code, but when I do... I find it much faster in production."_ 😈
->
-> **— The Final Frontier of Debugging**
-
----
-
-### 💡 About Me
-
-Halo! Saya **Usama**, seorang *Full-Stack Developer* dan *Mobile Engineer* yang bersemangat dalam membangun solusi yang skalabel, efisien, dan *clean*. Dengan pengalaman di berbagai platform, saya adalah jembatan antara ide dan implementasi teknologi canggih.
-
-- 🇮🇩 **Based in:** Indonesia
-- 🎯 **Focus:** Pengembangan Full-stack, Aplikasi Mobile (Cross & Native), dan Integrasi Cloud.
-- 🧠 **Superpower:** Mengubah *double shot espresso* menjadi arsitektur microservices yang rapi.
-- 🧩 **Side Quest:** Menerapkan Clean Architecture pada proyek *pet project* yang seharusnya sederhana.
-- 🤝 **Open for:** Kolaborasi proyek menarik & peluang baru.
+> _"I don't always test my code, but when I do... I find it much faster in production. Let's roll the dice."_ 😈
 
 ---
 
-### 🚀 Technical Arsenal (The Full Stack)
+### 💡 About Me & Philosophy
 
-#### 💻 1. Languages (The Polyglot Set)
-Untuk menunjukkan fleksibilitas dan adaptabilitas, inilah bahasa-bahasa yang saya kuasai:
+Hey there! I'm **Usama**, a dedicated **Full-Stack** and **Mobile Developer** based in Indonesia 🇮🇩. My passion lies in mastering multiple languages to architect flexible and high-performing systems. I believe that true engineering excellence comes from combining deep technical breadth with an obsession for *Clean Code*.
+
+| Detail | Description |
+|:---|:---|
+| 🌍 **Location** | Indonesia |
+| 💻 **Primary Focus** | Full-Stack Development (Web, Mobile, Cloud Integration) |
+| 🧠 **Superpower** | Turning complex requirements into elegant, clean architecture ☕ |
+| 🎯 **Current Goal** | Deepening expertise in Go concurrency and modern cloud orchestration. |
+| 🛠️ **Motto** | Why stick to one language when you can over-engineer everything across five? |
+
+---
+
+### 🚀 The Technical Arsenal
+
+#### 💻 1. Multi-Language Proficiency (16 Skills)
+My arsenal allows me to select the perfect tool for any part of the stack, ensuring performance and scalability.
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,php,kotlin,go,js,ts,dart,swift,python,csharp,html,css,bash,r,lua,sql" />
 </p>
-<details>
-<summary>Daftar Lengkap (16 Bahasa!)</summary>
-<br>
-- **Java** & **Kotlin** (Back-end & Native Android)
-- **PHP** (Laravel, Symfony, CodeIgniter)
-- **Go (Golang)** & **Node.js/JavaScript/TypeScript** (High-Performance Back-end)
-- **Dart** (Flutter untuk Mobile/Web/Desktop)
-- **Swift** (Native iOS Development)
-- **Python**, **C#**, **R**, **Lua** (Data Processing & Utilities)
-- **HTML5**, **CSS3/TailwindCSS** (Front-end)
-- **SQL** (Database Querying)
-- **Bash/Shell** (Automasi & DevOps)
-</details>
 
-#### ⚙️ 2. Frameworks & Tools (The Daily Drivers)
+#### ⚙️ 2. Frameworks & Tools (Daily Drivers)
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vue,flutter,nestjs,laravel,symfony,angular,codeigniter,androidstudio,vscode,git,github,postman" />
 </p>
 
 #### ☁️ 3. Data & Infrastructure (The Engine Room)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase,docker,linux,aws,gcp" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase,docker,linux,aws,gcp,kubernetes" />
 </p>
 
 ---
 
-### ✨ Highlighted Projects
-
-| Project | Description | Core Tech Stack | Focus |
-|:----------|:--------------|:-------------|:-------------|
-| **JasviCall** | Aplikasi VoIP berbasis SIP, mendukung fitur *voicemail* dan *video call* terenkripsi. | `Kotlin`, `PJSIP`, `WebRTC` | Mobile Native, Realtime |
-| **AI Learning Platform** | Portal pembelajaran AI interaktif dengan *dashboard* untuk manajemen sekolah. | `NestJS`, `Vue.js`, `MongoDB` | Full-stack, Education |
-| **Mobile ERP System** | Sistem ERP multi-platform untuk *dashboard* manajemen inventaris dan analitik. | `Flutter`, `Laravel`, `PostgreSQL` | Cross-platform, Business |
-| **Realtime Chat & Call** | Integrasi *chat* dan VoIP aman dengan otentikasi JWT dan server *high-frequency*. | `Node.js`, `Golang`, `Redis` | Backend Performance, Security |
-
----
-
-### 🧠 Featured Skills
+### ✨ Core Expertise & Featured Skills
 
 | Area | Expertise |
 |:---|:---|
-| **Full-stack Development** | Dari desain database (`PostgreSQL`, `MongoDB`) hingga rendering frontend (`Vue.js`, `Nuxt`). |
-| **Mobile Engineering** | Menguasai `Flutter` untuk *deployment* cepat dan *native* (`Kotlin`, `Swift`) untuk performa maksimal. |
-| **Realtime Integration** | Mahir dalam implementasi *WebSocket*, *SIP*, dan otentikasi `JWT` untuk komunikasi *low-latency*. |
-| **DevOps & Clean Code** | Pengalaman *containerization* dengan `Docker` dan penerapan pola *Clean Architecture* dan *SOLID*. |
-| **High Performance** | Mengoptimalkan *back-end* menggunakan `Go` dan `Redis` untuk beban kerja berat. |
+| 🏗️ **Full-Stack Development** | From robust database design (`PostgreSQL`, `MongoDB`) to dynamic frontend rendering (`Vue.js`, `Nuxt`). |
+| 📱 **Mobile Engineering** | Mastered `Flutter` for fast deployment and native performance tuning (`Kotlin`, `Swift`). |
+| 📡 **Realtime Integration** | Proficient in `WebSocket`, `SIP`, and `JWT` for low-latency, secure communication protocols. |
+| 🐳 **DevOps & Clean Code** | Expertise in `Docker` containerization, CI/CD principles, and applying *Clean Architecture* & *SOLID*. |
+| ⚡ **Performance Tuning** | Optimizing back-end services using high-efficiency languages like `Go` and caching with `Redis` for high throughput. |
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 🚀 Highlighted Projects Showcase
+
+| Project | Description | Core Tech Stack | Focus |
+|:----------|:--------------|:-------------|:-------------|
+| **JasviCall** | SIP-based VoIP application supporting encrypted voicemail and video call features. | `Kotlin`, `PJSIP`, `WebRTC` | Mobile Native, Realtime |
+| **AI Learning Platform** | Interactive AI learning portal with an administrative dashboard for school management. | `NestJS`, `Vue.js`, `MongoDB` | Full-stack, Education |
+| **Mobile ERP System** | Multi-platform ERP system for inventory management dashboard and comprehensive analytics. | `Flutter`, `Laravel`, `PostgreSQL` | Cross-platform, Business |
+| **Realtime Chat & Call** | Secure chat and VoIP integration using JWT authentication and high-frequency servers. | `Node.js`, `Golang`, `Redis` | Backend Performance, Security |
+
+---
+
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usamahisam&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=usamahisam&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=usamahisam&show_icons=true&theme=tokyonight&hide_border=true&title_color=9f7aea&text_color=c1d0e0" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=usamahisam&theme=tokyonight&hide_border=true&stroke=9f7aea" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamahisam&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamahisam&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=9f7aea&text_color=c1d0e0" height="195" />
 </p>
 
 ---
@@ -104,18 +95,21 @@ Untuk menunjukkan fleksibilitas dan adaptabilitas, inilah bahasa-bahasa yang say
   <a href="https://linkedin.com/in/usamahisam" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://usamahisam.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-100000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://x.com/usamahisam" target="_blank"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:hisamusama@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### ✨ Fun Fact & Motto
+### 😂 Developer Life in One Picture
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Developer Life Meme">
+</p>
+
+> _"When your code finally works, and you have no idea why."_ 😅
+
+---
 
 > “Behind every successful developer is a mountain of empty coffee cups, several deep sighs, and one GitHub repository named `final_final_v3_real_fix`.”
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="400" alt="Funny Coding GIF"/>
-</p>
-
----
-
-⭐ **Jika Anda terinspirasi, tertarik, atau sekadar suka—silakan berikan ⭐ atau *Follow*!**
+⭐ **If you laughed, learned, or liked anything here — drop a ⭐ or follow!**
